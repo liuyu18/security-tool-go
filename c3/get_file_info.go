@@ -7,7 +7,7 @@ import (
 )
 
 func CheckTheFile() {
-	fileInfo, err := os.Stat("c3/test.txt")
+	fileInfo, err := os.Stat("c3/text.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
