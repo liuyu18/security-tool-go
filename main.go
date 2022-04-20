@@ -11,6 +11,3 @@ func main() {
 	c4.FindRecentlyChangedFile()
 	c3.CheckTheFile()
 }
-func test() {
-
-}
